@@ -1,0 +1,15 @@
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\bin\Debug\net7.0\Binario.exe
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\bin\Debug\net7.0\Binario.deps.json
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\bin\Debug\net7.0\Binario.runtimeconfig.json
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\bin\Debug\net7.0\Binario.dll
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\bin\Debug\net7.0\Binario.pdb
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.csproj.AssemblyReference.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.AssemblyInfoInputs.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.AssemblyInfo.cs
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.csproj.CoreCompileInputs.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.dll
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\refint\Binario.dll
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.pdb
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\Binario.genruntimeconfig.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Fico\Binario\obj\Debug\net7.0\ref\Binario.dll
